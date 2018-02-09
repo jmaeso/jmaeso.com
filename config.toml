@@ -1,0 +1,28 @@
+baseURL = "http://jmaeso.com"
+languageCode = "en-us"
+title = "jmaeso website"
+theme = "aerial"
+
+
+[params]
+  name = "Joan Maeso"
+  about = "Backend Dev &nbsp;&bull;&nbsp; Gopher &nbsp;&bull;&nbsp; Videogames"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "http://linkedin.com/in/joanmaeso"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "http://github.com/jmaeso"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:maeso03@gmail.com"
